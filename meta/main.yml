@@ -2,15 +2,13 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: sakko
+  role_name: ansible
   description: Passenger installation for Linux/UNIX.
-  company: "Midwestern Mac, LLC"
+  company: "Geekstart"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
-    - name: Debian
-      versions:
-        - all
     - name: Ubuntu
       versions:
         - all
