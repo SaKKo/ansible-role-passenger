@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: sakko
-  role_name: ansible
+  role_name: passenger
   description: Passenger installation for Linux/UNIX.
   company: "Geekstart"
   license: "license (BSD, MIT)"
