@@ -1,2 +1,2 @@
 ---
-__nginx_user: "www-data"
+__nginx_user: "ubuntu"
